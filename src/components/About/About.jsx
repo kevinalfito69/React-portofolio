@@ -7,7 +7,7 @@ import {
     faJs,
     faCss3,
     faPython,
-    faGit,
+    faGitAlt,
 } from '@fortawesome/free-brands-svg-icons'
 
 import './index.scss'
@@ -60,7 +60,7 @@ const About = () => {
                             <FontAwesomeIcon icon={faCss3} color="#2965f1" />
                         </div>
                         <div className="face5">
-                            <FontAwesomeIcon icon={faGit} color="#e94e2f" />
+                            <FontAwesomeIcon icon={faGitAlt} color="#e94e2f" />
                         </div>
                         <div className="face6">
                             <FontAwesomeIcon icon={faPython} color="#e94e2f" />
